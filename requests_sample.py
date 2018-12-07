@@ -11,5 +11,3 @@ print(response.text)
 f = open('weekday.html', 'wt')
 f.write(response.text)
 f.close()
-
-d
